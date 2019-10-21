@@ -13,7 +13,7 @@ name                     : &name "Mallikarjun"
 description              : &description "Machine learning Engineer"
 url                      : https://mryelameli.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "mryeameli/mryelameli.github.io"
+repository               : "mryelameli.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
